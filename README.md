@@ -11,5 +11,9 @@ Simply run the following command:
 dotnet run
 ```
 
+# Good related articles
+- [Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2](https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/)
+- [StackOverflow question/answer that started this](https://stackoverflow.com/a/58565850/80527)
+
 # License
 MIT

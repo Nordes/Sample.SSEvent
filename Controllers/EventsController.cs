@@ -26,8 +26,6 @@ namespace Sample.SSEvent.Controllers
         {
             _logger = logger;
             _messageRepository = messageRepository;
-            // this.jsonSettings = new JsonSerializerSettings();
-            // jsonSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
         }
 
         /// <summary>
